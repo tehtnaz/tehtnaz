@@ -1,3 +1,3 @@
-- Hey. I make stuff; Games!
-- I've made them in C and Unity
+- Hey. I make stuff; Games! (and a discord bot too!)
+- I've made them in C and C#/Unity (bot is in TS) 
 - Check them out at https://tnaz.itch.io
